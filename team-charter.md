@@ -51,8 +51,8 @@ tag:
   </tr>
   <tr>
     <td>Ruiqiao Jiang</td>
-    <td>Developer<br>Editor/checker<br>Meeting minutes writer</td>
-    <td>- Documentation writing, record the detailed team meetings with the clients.<br>- Draft the Audit Presentation<br>- Keep track of user requirements for website design<br>- Write the User Requirements on the Database</td>
+    <td>Database Developer<br>Editor/checker<br>Meeting minutes writer</td>
+    <td>- Documentation writing, record the detailed team meetings.<br>- Draft the Audit Presentation<br>- Keep track of user requirements for database design<br>- Write the User Requirements on the Database</td>
   </tr>
   <tr>
     <td>Guoyu Wang</td>
