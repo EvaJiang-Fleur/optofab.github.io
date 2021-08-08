@@ -34,7 +34,7 @@ The above ratings are based on the likelihood of an event occurring (from most u
 
 ![Project Management Risks](https://cdn-std.droplr.net/files/acc_498334/uj1MY7)
 
-### Approaches to mitigate risks:
+### Attempted Approaches to mitigate risks:
 
 - Poor productivity (Possible to improbable): task tracking procedure，this semester we change the mode of meeting:last semester all the team members meet with clients,while this semester only one team member meet with the clients,then others can focus on developing the website and database
 - Lack of ownership (Improbable to impossible): signed the IP contract
@@ -45,8 +45,10 @@ The above ratings are based on the likelihood of an event occurring (from most u
 - The product doesn’t meet stakeholders' expectations (Probable to Possible): agile methodology, integrating the prototype, and discuss with the clients many times.
 - Poor documentation (Probable to Possible): team charter, work records, product requirements, statement of work, risk assessment, retrospectives…
 - Sudden growth in requirements (Intolerable and Probable to Tolerable and Possible): using agile methodology, integrating the prototype, frequent and active communication with clients
-- Unfamiliar with new programming tools:such as C#,React (Possible to Less Possible):every team member will make sure they spend at least 7 hours per week on learning new programming tools.
 - Team member turnover: maintaining a harmony communication environment
+
+### Future Approaches to mitigate risks:
+- Unfamiliar with new programming tools:such as C#,React (Possible to Less Possible):every team member will make sure they spend at least 7 hours per week on learning new programming tools.
 
 <br>
 
